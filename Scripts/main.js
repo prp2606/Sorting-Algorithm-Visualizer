@@ -27,7 +27,7 @@ function generateArray() {
 
   for (let index = 0; index < arraySize; index++) {
     arrayBarHeights.push(randomIntFromInterval(10, 600));
-
+ 
     arrayBars = document.createElement("div");
     arrayBars.style.height = `${arrayBarHeights[index]}px`;
     arrayBars.style.width = `100px`;
