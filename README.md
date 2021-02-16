@@ -9,5 +9,5 @@ This project gives us the visual perspective of how the algorithms work behind t
 
 This project has the features of adjusting array size, adjusting the algorithm speed and generating new array for different algorithms.
 
-#### Want to play around and learn more about sorting algos? Visit -> <a name="http://prp2606.github.io/SortingVisualizer">Live Site</a>
+#### Want to play around and learn more about sorting algos? Visit http://prp2606.github.io/SortingVisualizer 
 [Google chrome and big window screen recommended for good experience :) ]
